@@ -163,6 +163,8 @@
             <!-- CPU Usage -->
             <div class="row clearfix">
 
+
+
             </div>
             <!-- #END# CPU Usage -->
             <div class="row clearfix">
@@ -309,7 +311,7 @@
                                             <td>2</td>
                                             <td>Task B</td>
                                             <td><span class="label bg-blue">To Do</span></td>
-                                            <td>John Doe</td>
+                                            <td>John Doe 111  </td>
                                             <td>
                                                 <div class="progress">
                                                     <div class="progress-bar bg-blue" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%"></div>
@@ -351,6 +353,22 @@
                                                 </div>
                                             </td>
                                         </tr>
+                                        <tr>
+                                            <td>5</td>
+                                            <td>Task E</td>
+                                            <td>
+                                                <span class="label bg-red">Suspended</span>
+                                            </td>
+                                            <td>John Doe</td>
+                                            <td>
+                                                <div class="progress">
+                                                    <div class="progress-bar bg-red" role="progressbar" aria-valuenow="87" aria-valuemin="0" aria-valuemax="100" style="width: 87%"></div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        highlight_file
+                                        highlight_file
+
                                     </tbody>
                                 </table>
                             </div>
